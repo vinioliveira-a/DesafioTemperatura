@@ -27,12 +27,11 @@ Para executar este projeto, siga os passos abaixo:
 1.  Certifique-se de ter o **Java Development Kit (JDK)** instalado em sua máquina.
 2.  Clone o repositório para a sua máquina local:
     ```bash
-    git clone https://github.com/vinioliveira-a/desafioTemperatura.git
+    git clone https://github.com/vinioliveira-a/DesafioTemperatura.git
     ```
-    (Substitua `https://github.com/vinioliveira-a/desafioTemperatura.git` pelo URL real do seu repositório, se aplicável).
 3.  Acesse a pasta do projeto:
     ```bash
-    cd desafioTemperatura
+    cd DesafioTemperatura
     ```
 5.  Execute o programa:
 6.  O resultado da conversão será exibido no console.
